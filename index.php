@@ -12,7 +12,7 @@
 
 <style>
 .sentence{
-	text-
+	font-style: italic; 
 }
 </style>
 </head>
@@ -40,7 +40,7 @@ Fanny "Tu sais encore courir toi papa?" 0_°</span><br>
 Fanny: <span class="sentence">"Papaaaa si un zombie carotte nous mange le cerveau on meurt ou bien on devient un zombie?"</span><br>
 </p><p>
 Fanny: <span class="sentence">Mamy tu as quel âge? </span><br>
-M: 50 ans
+Moi: 50 ans
 Fanny: <span class="sentence">Ouff c’est lourd ça!</span><br>
 </p><p>
 Fanny: <span class="sentence">papa j’ai fait le dessert, (en se relevant de son pot)</span><br>
@@ -69,12 +69,12 @@ Fanny: <span class="sentence">(Air agasé) PAPA IL DIS QUE…. que’est ce que 
 </p><p>
  1/2015<br>
 Fanny: <span class="sentence">papa on peux aller au cirque?</span><br>
-M: non, pas aujourd'hui</span><br>
+Moi: non, pas aujourd'hui</span><br>
 Fanny: <span class="sentence">on ne dis pas non aux enfants, et moi j'emenerais mes enfant au cirque!</span><br>
 </p><p>
-M: et tu leur fera quoi a manger? </span><br>
+Moi: et tu leur fera quoi a manger? </span><br>
 Fanny: <span class="sentence">des crêpes </span><br>
-M: tu m'étonnes </span><br>
+Moi: tu m'étonnes </span><br>
 </p><p>
 3/2015<br>
 Fanny: <span class="sentence">quand est ce que tu m'achète une robe d'Elsa ?</span><br>
@@ -82,12 +82,12 @@ Quand tu sera sage!</span><br>
 Ohhhh mais c'est dans longtemps ca!!!</span><br>
 </p><p>
 3/2015<br>
-M: N’appuye pas sur ce bouton </span><br>
+Moi: N’appuye pas sur ce bouton </span><br>
 Fanny: <span class="sentence">Papa elle a appuyé</span><br>
 Fanny: <span class="sentence">C’est pas moi c’est moi doigt</span><br>
 </p><p>
 4/2014<br>
-M: Dis la vérité, combien de fois t’a fait pipi dans ta culotte?</span><br>
+Moi: Dis la vérité, combien de fois t’a fait pipi dans ta culotte?</span><br>
 Fanny: <span class="sentence">(L’air toute gènée) 40 fois!</span><br>
 </p><p>
 6/2015<br>
@@ -96,7 +96,7 @@ Oui</span><br>
 Fanny: <span class="sentence">C’est une tasse</span><br>
 </p><p>
 7/2015<br>
-M: Qui t’a donné une chique?</span><br>
+Moi: Qui t’a donné une chique?</span><br>
 Fanny: <span class="sentence">Je l’ai trouvée par terre</span><br>
 </p><p>
 10/2015<br>
